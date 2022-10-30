@@ -1,0 +1,25 @@
+.yazilar{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    margin-top:10vh;
+}
+.navbar{
+    height:10vh;
+}
+.jumbotron{
+    margin-top: 10vh;
+}
+#imgT
+{
+    width: 90%;
+    margin-top:5vh;
+    margin-left:auto;
+    margin-right:auto;
+}
+.lead,.btn{
+    margin-top: 5vh;
+}
+p{
+    font-size: large;
+}
